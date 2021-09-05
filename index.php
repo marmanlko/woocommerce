@@ -20,7 +20,7 @@
 		border: 10px solid;
 		height: 500px;
 		width: 500px;
-		position: absolute;
+		position: relative;
 		top: 50px;
 	}
 	.border_inner
