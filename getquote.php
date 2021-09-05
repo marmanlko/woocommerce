@@ -29,7 +29,7 @@
 		border: 10px solid;
 		height: 500+<?php echo $_POST['height']?>px;
 		width: 500+<?php echo $_POST['width']?>px;
-		position: absolute;
+		position: relative;
 		top: 50px;
 	}
 	.border_inner
